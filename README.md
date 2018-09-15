@@ -3,7 +3,7 @@
 ### App Description
 hello world app iOS prework for mobile app design class
 
-### App Walk-though
+### App Walk-through
 <img src="https://i.imgur.com/hkdRE4O.gif" width=200><br>
 
 direct link: https://imgur.com/a/lL5pDy8 
