@@ -4,7 +4,7 @@
 `TODO://` hello world app iOS prework for mobile app design class
 
 ### App Walk-though
-<img src="https://s3.amazonaws.com/img0.recordit.co/8X1KOAOHzk.mp4?AWSAccessKeyId=AKIAINSRFOQXTN4DT46A&Expires=1536987886&Signature=cmdtnCkOnr3SL1EGNaheIcCIq8A%3D" width=200><br>
+<img src="https://imgur.com/a/lL5pDy8" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
